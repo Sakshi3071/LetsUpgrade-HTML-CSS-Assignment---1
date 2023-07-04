@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Webpage Layout</title>
+<style>
+header {
+  background-color: #87CEEB;
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>This is the header</h1>
+</header>
+<main>
+  <p>This is the main content area</p>
+</main>
+</body>
+</html>
